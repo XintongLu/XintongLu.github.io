@@ -483,12 +483,6 @@ nav a:hover {
   text-shadow: none;
   pointer-events: none;
 }
-* {
-  cursor: url("https://s33.postimg.cc/5i2dmopin/Animals-_Dog-_Footprint-icon.png"), auto !important;
-}
-:active {
-  cursor: url("https://s33.postimg.cc/xxhr07zjj/Animals-_Dog-_Track-icon.png"), auto !important;
-}
 footer.footer-content {
   padding-top: 100px;
   width: 100%;
